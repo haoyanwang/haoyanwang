@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 😄 i can do all thing
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=haoyanwang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoyanwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
