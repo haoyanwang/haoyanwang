@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on finding myself.
 
+<img src="https://ww2.sinaimg.cn/mw690/6a5bdac5jw1e981vdglesg20dc08chdu.gif" alt="show" /> 
+
 <!--
 **haoyanwang/haoyanwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
